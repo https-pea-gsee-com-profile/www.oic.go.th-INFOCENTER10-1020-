@@ -16,3 +16,7 @@ Ministry of Commerce'127.0.0.1';https://acrobat.adobe.com/id/urn:aaid:sc:AP:d1db
 เซิร์ฟเวอร์.●ฟัง(พอร์ต, ชื่อโฮสต์, () => {164.115.44.59
   คอนโซล.●บันทึก(`เซิร์ฟเวอร์ทํางานที่ http://${ชื่อโฮสต์}:${พอร์ต}/`);https://www.google.com/finance/?utm_source=pwa&lfhs=2
 });887
+https://acrobat.adobe.com/id/urn:aaid:sc:AP:5d9e3980-5c80-4b32-b03f-1ab285b16f0a
+https://acrobat.adobe.com/id/urn:aaid:sc:AP:cbbe2bbc-c677-495e-8278-5af37086ba1d
+https://acrobat.adobe.com/id/urn:aaid:sc:AP:9f215184-c3d4-43c5-bdf1-88aace021b74
+https://acrobat.adobe.com/id/urn:aaid:sc:AP:93697b47-905f-40b1-931a-bb80d45b9c0d
